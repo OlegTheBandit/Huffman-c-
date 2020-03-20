@@ -1,0 +1,30 @@
+﻿  RB_Test.cpp
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(591,2): warning C4101:  u: неиспользованная локальная переменная
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(581): message :  во время компиляции функции-члена класс шаблон "void Map<int,std::string>::remove(T1)"
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(581): message :         with
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(581): message :         [
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(581): message :             T1=int
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(581): message :         ]
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(43): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Map<int,std::string>::remove(T1)"
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(43): message :         with
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(43): message :         [
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(43): message :             T1=int
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(43): message :         ]
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(18): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "Map<int,std::string>"
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(553,27): error C2676:  бинарный "+": "T2" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(553,27): error C2676:         with
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(553,27): error C2676:         [
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(553,27): error C2676:             T2=std::string
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(553,27): error C2676:         ]
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(532): message :  во время компиляции функции-члена класс шаблон "void Map<int,std::string>::insert(T1,T2)"
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(532): message :         with
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(532): message :         [
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(532): message :             T1=int,
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(532): message :             T2=std::string
+D:\Aistr\4th term\RedBlack\RB\RB\RB.cpp(532): message :         ]
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(25): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Map<int,std::string>::insert(T1,T2)"
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(25): message :         with
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(25): message :         [
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(25): message :             T1=int,
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(25): message :             T2=std::string
+D:\Aistr\4th term\RedBlack\RB\RB_Test\RB_Test.cpp(25): message :         ]

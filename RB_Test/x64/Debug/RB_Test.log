@@ -1,0 +1,16 @@
+﻿  RB_Test.cpp
+D:\Aistr\4th term\Haffman\RB\RB.cpp(1166,56): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Aistr\4th term\Haffman\RB\RB.cpp(1224,76): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Aistr\4th term\Haffman\RB\RB.cpp(885,2): warning C4101:  u: неиспользованная локальная переменная
+D:\Aistr\4th term\Haffman\RB\RB.cpp(875): message :  во время компиляции функции-члена класс шаблон "void Map<int,std::string>::remove(T1)"
+D:\Aistr\4th term\Haffman\RB\RB.cpp(875): message :         with
+D:\Aistr\4th term\Haffman\RB\RB.cpp(875): message :         [
+D:\Aistr\4th term\Haffman\RB\RB.cpp(875): message :             T1=int
+D:\Aistr\4th term\Haffman\RB\RB.cpp(875): message :         ]
+D:\Aistr\4th term\Haffman\RB_Test\RB_Test.cpp(58): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Map<int,std::string>::remove(T1)"
+D:\Aistr\4th term\Haffman\RB_Test\RB_Test.cpp(58): message :         with
+D:\Aistr\4th term\Haffman\RB_Test\RB_Test.cpp(58): message :         [
+D:\Aistr\4th term\Haffman\RB_Test\RB_Test.cpp(58): message :             T1=int
+D:\Aistr\4th term\Haffman\RB_Test\RB_Test.cpp(58): message :         ]
+D:\Aistr\4th term\Haffman\RB_Test\RB_Test.cpp(18): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "Map<int,std::string>"
+  RB_Test.vcxproj -> D:\Aistr\4th term\Haffman\x64\Debug\RB_Test.dll

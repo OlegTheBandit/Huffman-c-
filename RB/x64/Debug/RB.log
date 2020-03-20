@@ -1,0 +1,4 @@
+﻿  RB.cpp
+D:\Aistr\4th term\Haffman\RB\RB.cpp(1166,57): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Aistr\4th term\Haffman\RB\RB.cpp(1224,77): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+  RB.vcxproj -> D:\Aistr\4th term\Haffman\x64\Debug\RB.exe
